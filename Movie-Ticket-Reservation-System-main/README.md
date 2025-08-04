@@ -69,10 +69,3 @@ interation diagram, UML diagram, package diagram, deployment diagram, wireframes
    $ java -cp ".;lib/*;bin" movieTicketSystem.movieApp
    ```
 
-
-## Contributors
-
-+ [Giese, Calvin](https://github.com/calvingiese)
-+ [Guo, Yuhua](https://github.com/davedaveisguo)
-+ [Gupta, Bhavyai](https://github.com/zbhavyai)
-+ [Hall, Graydon ](https://github.com/GraydonHall42)
